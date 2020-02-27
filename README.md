@@ -1,15 +1,6 @@
 # Fake News Challenge (FNC)
  COMP-9417 - 2019 - T2 - Machine Learning Project
 
-**Submitted By:**
-
-Jianan Yan **(z5168722)**, Mark Thomas **(z5194597)**,
-Qiqi Zhang **(z5185698)**, Sudhan Maharjan **(z5196539)**
-
-
-
-
-
 Required libraries 
 Spacy
 `en_core_web_lg` package is needed for spacy
@@ -33,8 +24,5 @@ Spacy
 - Update `F_PKL` value with the value we set above for `F_PKL`
 - Run the file for the classification
 
-
-#### Required Files are in google drive
-https://drive.google.com/drive/folders/1NiFtlfnxgLteDjlUsVKPJfGjQJD3dKq4?usp=sharing
 
 
